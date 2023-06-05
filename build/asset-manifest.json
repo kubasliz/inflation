@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/inflation/static/css/main.991c9aea.css",
+    "main.js": "/inflation/static/js/main.8fcf2616.js",
+    "index.html": "/inflation/index.html",
+    "main.991c9aea.css.map": "/inflation/static/css/main.991c9aea.css.map",
+    "main.8fcf2616.js.map": "/inflation/static/js/main.8fcf2616.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.991c9aea.css",
+    "static/js/main.8fcf2616.js"
+  ]
+}
